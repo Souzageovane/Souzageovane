@@ -1,5 +1,5 @@
 - 👋 Eu sou o Geovane de Souza
-- 👀 Sou formado em Bacharel Administração       
+- 👀 Sou Bacharel em Administração pela UNINOVE       
 - 🌱 I’m currently learning full stack em Python pela EBAC
 - 💞️ I’m looking to collaborate com alguns projetos feitos durante o curso
 - 📫 How to reach me  e-mail: Geovanesouza650@gmail.com
