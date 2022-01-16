@@ -1,5 +1,5 @@
 - 👋 Eu sou o Geovane de Souza
-- 👀 Sou Administrador de empresas
+- 👀 Sou formado em Administração pela Uninove       
 - 🌱 I’m currently learning full stack em Python
 - 💞️ I’m looking to collaborate com alguns projetos feitos durante o curso
 - 📫 How to reach me  e-mail: Geovanesouza650@gmail.com
